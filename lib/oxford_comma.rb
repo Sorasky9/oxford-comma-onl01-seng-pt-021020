@@ -1,6 +1,6 @@
 def oxford_comma(array)
-if array.join
-  puts "#{array}"
+if array
+  array.join
 
 
 end
