@@ -3,9 +3,8 @@ def oxford_comma(array)
   #binding.pry
 if array.length == 1
   array.join()
-#  array.join
-#elsif array== 2
-#  array.join( " and ")
+elsif array.length == 2
+array.join( " and ")
 #elsif size == 3
 #  array.join( "and")
 
