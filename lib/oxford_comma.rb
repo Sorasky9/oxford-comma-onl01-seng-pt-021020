@@ -4,7 +4,7 @@ if array
 elsif array size == 2
   array.join("and")
 elsif size == 3
-  array.join(, "and")
+  array.join( "and")
 
 
 
