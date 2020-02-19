@@ -1,5 +1,6 @@
 require 'pry'
 def oxford_comma(array)
+  binding.pry 
 #if array
 #  array.join
 #elsif array size == 2
