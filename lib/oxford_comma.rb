@@ -1,6 +1,6 @@
 def oxford_comma(array)
-["kiwi"].join
-["kiwi",  "durian"].join( " and " )
+if array.join
+  puts "#{array}"
 
 
 end
